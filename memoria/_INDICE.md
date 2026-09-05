@@ -14,7 +14,9 @@ está cada cosa; no hace falta leer todos los ficheros para responder una pregun
 - **06-participantes-elegibilidad.md** — Quién puede participar: ERTE, excedencias, baja médica, autónomos, empleo de hogar.
 - **07-modalidad-aula-virtual.md** — Presencial, teleformación y la regla de aula virtual síncrona/bimodal del ejercicio 2026.
 - **08-ayudas-legal-herramientas.md** — Compatibilidad con otras ayudas, requisitos legales del curso, plataforma oficial.
-- **09-preguntas-prioritarias.md** — Guion de 20 preguntas de diagnóstico para resolver primero lo que destraba el resto.
+- **09-preguntas-prioritarias.md** — Guion de 20 preguntas de diagnóstico para resolver primero lo que destraba el resto, con el motivo de cada prioridad.
+- **10-mantenimiento.md** — Cómo se cuida esta base: jerarquía de fuentes, cuándo toca revisión extraordinaria, los cuatro motivos de "No especificado", qué exige doble revisión humana y esquema de exportación.
+- **11-fuentes.md** — Índice de fuentes: identificador BOE, URL y qué mirar en cada norma; y cómo leer la columna "Fuente" de las fichas 01-08.
 - **empresas-certificadas.md** — Permacultura Cantabria y Bitectura SLU — datos pendientes de confirmar por Óscar.
 
 ## Normativa oficial (fuentes primarias descargadas de BOE/SEPE/FUNDAE)
