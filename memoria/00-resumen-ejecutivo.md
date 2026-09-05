@@ -18,10 +18,28 @@ formación. Ver [[01-roles-y-figuras]].
 |---|---|---|
 | Ley 30/2015, de 9 de septiembre | Define iniciativas, formación programada, cofinanciación, costes, control, entidades y responsabilidades. | Referencia central; modificada por Ley 3/2023 de Empleo y afectada por la Ley Orgánica 3/2022. |
 | RD 694/2017, de 3 de julio | Desarrollo detallado de crédito, RLT, organización, costes, comunicaciones y bonificaciones. | Texto consolidado, con actualización relevante a cierre de 2025. |
-| RD 1189/2025, de 26 de diciembre | Actualiza, entre otros, el art. 18 del RD 694/2017 (plazo límite de bonificación, comprobación, reintegro, devolución voluntaria). | En vigor desde el 1-ene-2026. Ver [[03-proceso-plazos-rlt]] y [[05-auditoria-sanciones-fraude]]. **Verificar en `normativa/rd-1189-2025.md` si se confirmó su existencia real** — dato aportado por la investigación previa, pendiente de contraste con fuente oficial verificada por este agente. |
-| Resolución SEPE de 25-nov-2025 | Reglas específicas del ejercicio 2026: aula virtual síncrona como presencial, bimodalidad, plazo de comunicación de inicio a 2 días. | Aplicable a acciones programadas con cargo al crédito de 2026, ámbito de gestión estatal del SEPE. Ver [[07-modalidad-aula-virtual]]. **Mismo aviso de verificación que el RD 1189/2025.** |
+| RD 1189/2025, de 26 de diciembre (BOE-A-2025-27115) | Actualiza, entre otros, el art. 18 del RD 694/2017 (plazo límite de bonificación, comprobación, reintegro, devolución voluntaria). | Verificado en boe.es. En vigor desde el 1-ene-2026. Ver [[03-proceso-plazos-rlt]] y [[05-auditoria-sanciones-fraude]]. |
+| Resolución SEPE de 25-nov-2025 (BOE-A-2025-25790) | Reglas específicas del ejercicio 2026: aula virtual síncrona como presencial, bimodalidad, plazo de comunicación de inicio a 2 días. | Verificada en boe.es. Aplicable a acciones programadas con cargo al crédito de 2026, ámbito de gestión estatal del SEPE. Norma **anual**: revisar al entrar 2027. Ver [[07-modalidad-aula-virtual]]. |
 | LISOS (RDL 5/2000) | Tipificación y cuantía de infracciones y sanciones. | Falseamiento/simulación y disfrute indebido pueden ser graves o muy graves. Ver [[05-auditoria-sanciones-fraude]]. |
 | FUNDAE | Guías, aplicación telemática, FAQ, modelos, documentación y soporte técnico. | Fuente operativa principal tras la norma. |
+
+Identificadores BOE, URLs y qué mirar en cada norma: [[11-fuentes]].
+
+## Cómo se llegó hasta aquí (por qué una FAQ de 2024 ya no sirve)
+
+| Año | Hito | Qué aportó |
+|---|---|---|
+| 2007 | Orden TAS/2307/2007 | Crea el sistema telemático de comunicación de la formación de demanda. Conserva relevancia transitoria en determinados procedimientos y en los PIF; la propia Resolución de 2026 sigue remitiendo a su art. 9. |
+| 2015 | Ley 30/2015 | Marco de formación profesional para el empleo: iniciativas, crédito, cofinanciación, control, responsabilidades. |
+| 2017 | RD 694/2017 | Desarrollo operativo: crédito, RLT, costes, comunicaciones, bonificación. |
+| 2020 | Resolución SEPE de 15-abr-2020 | Medidas extraordinarias por la pandemia: nace el aula virtual y la comunicación de inicio abreviada. Se ha ido **prorrogando año a año** desde entonces. |
+| 2023 | Ley 3/2023 de Empleo | Evolución hacia el concepto de "formación en el trabajo"; modifica la Ley 30/2015. |
+| 2025 | Resolución SEPE de 25-nov-2025 | Prórroga de las medidas de aula virtual para el ejercicio **2026** + plazo de dos días. |
+| 2026 | RD 1189/2025 (desde el 1-ene) | Nueva redacción del art. 18 del RD 694/2017: plazo de bonificación, comprobación, reintegro y devolución voluntaria. |
+
+La lectura práctica: en 2026 conviven cuatro capas normativas a la vez, y las dos últimas son
+posteriores a cualquier FAQ escrita en 2024 o 2025. **Nunca cierres una respuesta de plazos,
+aula virtual o comprobación con una fuente anterior a diciembre de 2025.**
 
 ## Proceso general (de principio a fin)
 
@@ -60,4 +78,9 @@ propias (entre ellas informar a la RLT y aplicar la bonificación en sus propias
   se marca **"No especificado"**, con un motivo (no localizado en fuente oficial / depende del
   caso / depende de normativa autonómica / pendiente de norma del ejercicio).
 
-Ver también: [[09-preguntas-prioritarias]] · [[10-mantenimiento]] · [[empresas-certificadas]].
+Cada respuesta lleva además su **fuente** en la última columna de la tabla. Cuando cites una
+regla, di de dónde sale: no es lo mismo "lo dice la Ley 30/2015" que "es un criterio operativo
+de FUNDAE" o "es una inferencia de esta base".
+
+Ver también: [[09-preguntas-prioritarias]] · [[10-mantenimiento]] · [[11-fuentes]] ·
+[[empresas-certificadas]].
